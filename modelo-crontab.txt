@@ -1,0 +1,5 @@
+# Não enviar e-mail
+MAILTO=""
+
+# m h  dom mon dow   command
+* 19-22 * * 2 /caminho/para/script/captura.sh
